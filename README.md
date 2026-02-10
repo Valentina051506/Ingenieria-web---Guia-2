@@ -4,7 +4,7 @@ Este proyecto presenta una página web básica desarrollada en **HTML5**, cuyo o
 
 ---
 
-## 📂 Contenido del Proyecto
+## Contenido del Proyecto
 
 El proyecto contiene los siguientes archivos:
 
@@ -13,7 +13,7 @@ El proyecto contiene los siguientes archivos:
 
 ---
 
-## 🚀 Cómo clonar el proyecto
+## Cómo clonar el proyecto
 
 Para obtener una copia del proyecto en tu computador, sigue estos pasos:
 
