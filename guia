@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Introducción a la Ingeniería Web</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+
+    <!-- ================= HEADER =================
+         Contiene el título principal del sitio
+         y la navegación básica -->
+    <header>
+        <h1>Ingeniería Web</h1>
+        <nav>
+            <ul>
+                <li><a href="#intro">Introducción</a></li>
+                <li><a href="#arquitectura">Arquitectura Cliente-Servidor</a></li>
+                <li><a href="#semantica">Semántica y Accesibilidad</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <!-- ================= MAIN =================
+         Contenido principal del sitio -->
+    <main>
+
+        <!-- Sección de introducción -->
+        <section id="intro">
+            <h2>Introducción a la Ingeniería Web</h2>
+            <p>
+                La ingeniería web es una disciplina que se encarga del diseño,
+                desarrollo, implementación y mantenimiento de aplicaciones y
+                sistemas web. Combina principios de la ingeniería de software,
+                diseño, usabilidad y tecnologías web.
+            </p>
+        </section>
+
+        <!-- Sección sobre arquitectura cliente-servidor -->
+        <section id="arquitectura">
+            <h2>Arquitectura Cliente-Servidor</h2>
+            <p>
+                La arquitectura cliente-servidor es un modelo de comunicación
+                donde el cliente realiza solicitudes y el servidor responde
+                proporcionando los recursos o servicios solicitados.
+            </p>
+            <p>
+                En la web, el navegador actúa como cliente y el servidor web
+                procesa las peticiones, maneja la lógica del sistema y accede
+                a bases de datos si es necesario.
+            </p>
+        </section>
+
+        <!-- Artículo independiente -->
+        <article id="semantica">
+            <h2>Importancia de la Semántica y el Diseño Accesible</h2>
+            <p>
+                El uso de etiquetas semánticas en HTML5 permite estructurar
+                correctamente el contenido, facilitando su comprensión tanto
+                para los usuarios como para los motores de búsqueda.
+            </p>
+            <p>
+                Además, un diseño accesible garantiza que personas con
+                discapacidades puedan navegar e interactuar con los sitios web,
+                promoviendo la inclusión digital y el cumplimiento de estándares
+                internacionales.
+            </p>
+        </article>
+
+    </main>
+
+    <!-- ================= ASIDE =================
+         Contenido complementario o secundario -->
+    <aside>
+        <h3>Recursos Recomendados</h3>
+        <ul>
+            <li><a href="https://developer.mozilla.org/es/" target="_blank">MDN Web Docs</a></li>
+            <li><a href="https://www.w3.org/" target="_blank">W3C</a></li>
+            <li><a href="https://www.w3schools.com/html/" target="_blank">W3Schools HTML</a></li>
+        </ul>
+    </aside>
+
+    <!-- ================= FOOTER =================
+         Información de contacto o derechos de autor -->
+    <footer>
+        <p>&copy; 2026 - Sitio educativo de Ingeniería Web</p>
+        <p>Contacto: info@ingenieriaweb.com</p>
+    </footer>
+
+</body>
+</html>
