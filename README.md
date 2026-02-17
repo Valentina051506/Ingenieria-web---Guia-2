@@ -2,6 +2,26 @@
 
 Este proyecto presenta una página web básica desarrollada en HTML5, cuyo objetivo es aplicar correctamente la estructura semántica, siguiendo buenas prácticas de accesibilidad, organización del contenido y estándares web.
 
+Por otro lado, se esta desarrollando un proyecto con arquitectura web, donde se resolvera una problematica 
+Este archivo contiene el análisis inicial del sistema e incluye:
+
+- El problema que se quiere resolver  
+- Los usuarios del sistema  
+- La entrada, el proceso y la salida del sistema  
+- El alcance del sistema  
+
+En esta etapa se define el contexto general del proyecto y se justifica la necesidad de la solución.
+
+---
+Este archivo contiene la especificación de los requisitos del sistema e incluye:
+
+- Requisitos funcionales  
+- Requisitos no funcionales  
+- Actores del sistema  
+
+En esta etapa se detallan las funcionalidades que debe cumplir la aplicación y las características de calidad que debe garantizar.
+
+Ambas estapas se encuentran dentro de la carpeta /docs/etapa-1-y-2.pdf. Por otro lado tambien encontramos los diagramas de casos de uso, de secuencia y de clases dentro de la carpeta /diagrams
 ---
 
 ## Contenido del Proyecto
