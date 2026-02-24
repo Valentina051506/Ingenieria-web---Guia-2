@@ -25,6 +25,23 @@ El documento [`docs/etapa1 y 2.pdf`](docs/etapa1%20y%202.pdf) contiene la especi
 
 En esta etapa se detallan las funcionalidades que debe cumplir la aplicación y las características de calidad que debe garantizar.
 
+Arquitectura del Sistema
+
+El sistema se desarrollará bajo una arquitectura en capas, con el objetivo de separar responsabilidades y facilitar el mantenimiento, la escalabilidad y la evolución del software.
+
+La arquitectura estará compuesta por las siguientes capas:
+
+Capa de Presentación:
+Encargada de la interfaz de usuario y la interacción con los miembros del grupo familiar.
+
+Capa de Lógica de Negocio:
+Contiene las reglas del sistema, como el registro de desacuerdos, gestión de acuerdos y validaciones.
+
+Capa de Acceso a Datos:
+Responsable de la persistencia de la información en la base de datos, garantizando la integridad y seguridad de los datos.
+
+Esta arquitectura permite cumplir los requerimientos no funcionales relacionados con mantenibilidad, seguridad y escalabilidad, además de facilitar futuras modificaciones.
+
 ---
 
 ## Diagramas
