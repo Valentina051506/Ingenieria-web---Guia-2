@@ -43,8 +43,6 @@ Dentro de la carpeta `/diagrams` se encuentran:
 |---|---|
 | `index.html` | Archivo principal con la estructura semántica del sitio. Descargar para visualizar. |
 | `README.md` | Instrucciones de uso y explicación del proyecto. |
-| `docs/etapa1-analisis.md` | Análisis del sistema (problema, usuarios, entradas/salidas, alcance). |
-| `docs/etapa2-requisitos.md` | Requisitos funcionales, no funcionales y actores del sistema. |
 | `docs/etapa-1-y-2.pdf` | Documento consolidado de las etapas 1 y 2. |
 | `markdown-preview.pdf` | Propósitos, ventajas e importancia de la separación cliente-servidor. |
 | `Diagrama de proyecto web profesional` | Diagrama de estructura de un proyecto web profesional. |
