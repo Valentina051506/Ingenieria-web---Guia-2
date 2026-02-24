@@ -9,7 +9,7 @@ Por otro lado, se está desarrollando un proyecto con arquitectura web donde se 
 ## Etapas del Proyecto
 
 ### Etapa 1 – Análisis del Sistema
-El archivo [`docs/etapa1-y-2.pdf`](docs/etapa1-y-2.) contiene el análisis inicial del sistema e incluye:
+El archivo [`docs/etapa1-y-2.pdf`](docs/etapa1-y-2.pdf) contiene el análisis inicial del sistema e incluye:
 - El problema que se quiere resolver
 - Los usuarios del sistema
 - La entrada, el proceso y la salida del sistema
