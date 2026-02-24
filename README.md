@@ -55,17 +55,51 @@ Dentro de la carpeta `/diagrams` se encuentran:
 
 ## Cómo clonar el proyecto
 
-Para obtener una copia del proyecto en tu computador, sigue estos pasos:
+Clonar un repositorio significa descargar una copia completa del proyecto en tu computador, incluyendo todos los archivos y el historial de cambios de Git.
 
-1. Abre la terminal o Git Bash.
-2. Ejecuta el siguiente comando:
+### Requisitos previos
+Antes de clonar, asegúrate de tener instalado:
+- [Git](https://git-scm.com/downloads) — puedes verificarlo ejecutando `git --version` en tu terminal.
+- Un editor de código como [Visual Studio Code](https://code.visualstudio.com/) (opcional, pero recomendado).
 
+### Pasos para clonar
+
+**1. Abre la terminal**
+- En Windows: usa **Git Bash** o el **Símbolo del sistema (cmd)**.
+- En Mac/Linux: usa la **Terminal**.
+
+**2. Navega a la carpeta donde quieres guardar el proyecto**
+```bash
+cd ruta/de/tu/carpeta
+# Ejemplo: cd Documents/mis-proyectos
+```
+
+**3. Ejecuta el comando de clonación**
 ```bash
 git clone https://github.com/Valentina051506/Ingenieria-web.git
 ```
+Esto creará una carpeta llamada `Ingenieria-web` con todo el contenido del repositorio.
 
-3. Entra a la carpeta del proyecto:
-
+**4. Entra a la carpeta del proyecto**
 ```bash
 cd Ingenieria-web
+```
+
+**5. Abre el proyecto en tu editor (opcional)**
+```bash
+code .
+```
+> El comando `code .` abre la carpeta actual en Visual Studio Code.
+
+### ¿Qué hacer después de clonar?
+- Abre el archivo `index.html` en tu navegador para visualizar la página web.
+- Revisa la carpeta `docs/` para leer el análisis y los requisitos del sistema.
+- Consulta la carpeta `diagrams/` para ver los diagramas del proyecto.
+
+### ¿Quieres contribuir o guardar tus propios cambios?
+Si realizas modificaciones y deseas registrarlas en Git, usa:
+```bash
+git add .
+git commit -m "descripción de tus cambios"
+git push origin main
 ```
