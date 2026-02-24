@@ -9,7 +9,7 @@ Por otro lado, se está desarrollando un proyecto con arquitectura web donde se 
 ## Etapas del Proyecto
 
 ### Etapa 1 – Análisis del Sistema
-El archivo [`docs/etapa1-analisis.md`](docs/etapa1-analisis.md) contiene el análisis inicial del sistema e incluye:
+El archivo [`docs/etapa1-analisis.md`](docs/etapa1-y-2.) contiene el análisis inicial del sistema e incluye:
 - El problema que se quiere resolver
 - Los usuarios del sistema
 - La entrada, el proceso y la salida del sistema
@@ -18,14 +18,13 @@ El archivo [`docs/etapa1-analisis.md`](docs/etapa1-analisis.md) contiene el aná
 En esta etapa se define el contexto general del proyecto y se justifica la necesidad de la solución.
 
 ### Etapa 2 – Requisitos del Sistema
-El archivo [`docs/etapa2-requisitos.md`](docs/etapa2-requisitos.md) contiene la especificación de los requisitos del sistema e incluye:
+El archivo [`docs/etapa2-requisitos.md`](docs/etapa1-y-2.pdf) contiene la especificación de los requisitos del sistema e incluye:
 - Requisitos funcionales
 - Requisitos no funcionales
 - Actores del sistema
 
 En esta etapa se detallan las funcionalidades que debe cumplir la aplicación y las características de calidad que debe garantizar.
 
-> También se encuentra disponible el documento consolidado en [`docs/etapa-1-y-2.pdf`](docs/etapa-1-y-2.pdf).
 
 ---
 
